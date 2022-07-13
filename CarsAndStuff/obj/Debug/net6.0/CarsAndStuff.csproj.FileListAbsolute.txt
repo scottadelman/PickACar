@@ -1,0 +1,15 @@
+C:\Users\scott\OneDrive\Desktop\CarsAndStuff\CarsAndStuff\bin\Debug\net6.0\CarsAndStuff.exe
+C:\Users\scott\OneDrive\Desktop\CarsAndStuff\CarsAndStuff\bin\Debug\net6.0\CarsAndStuff.deps.json
+C:\Users\scott\OneDrive\Desktop\CarsAndStuff\CarsAndStuff\bin\Debug\net6.0\CarsAndStuff.runtimeconfig.json
+C:\Users\scott\OneDrive\Desktop\CarsAndStuff\CarsAndStuff\bin\Debug\net6.0\CarsAndStuff.dll
+C:\Users\scott\OneDrive\Desktop\CarsAndStuff\CarsAndStuff\bin\Debug\net6.0\CarsAndStuff.pdb
+C:\Users\scott\OneDrive\Desktop\CarsAndStuff\CarsAndStuff\obj\Debug\net6.0\CarsAndStuff.csproj.AssemblyReference.cache
+C:\Users\scott\OneDrive\Desktop\CarsAndStuff\CarsAndStuff\obj\Debug\net6.0\CarsAndStuff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scott\OneDrive\Desktop\CarsAndStuff\CarsAndStuff\obj\Debug\net6.0\CarsAndStuff.AssemblyInfoInputs.cache
+C:\Users\scott\OneDrive\Desktop\CarsAndStuff\CarsAndStuff\obj\Debug\net6.0\CarsAndStuff.AssemblyInfo.cs
+C:\Users\scott\OneDrive\Desktop\CarsAndStuff\CarsAndStuff\obj\Debug\net6.0\CarsAndStuff.csproj.CoreCompileInputs.cache
+C:\Users\scott\OneDrive\Desktop\CarsAndStuff\CarsAndStuff\obj\Debug\net6.0\CarsAndStuff.dll
+C:\Users\scott\OneDrive\Desktop\CarsAndStuff\CarsAndStuff\obj\Debug\net6.0\refint\CarsAndStuff.dll
+C:\Users\scott\OneDrive\Desktop\CarsAndStuff\CarsAndStuff\obj\Debug\net6.0\CarsAndStuff.pdb
+C:\Users\scott\OneDrive\Desktop\CarsAndStuff\CarsAndStuff\obj\Debug\net6.0\CarsAndStuff.genruntimeconfig.cache
+C:\Users\scott\OneDrive\Desktop\CarsAndStuff\CarsAndStuff\obj\Debug\net6.0\ref\CarsAndStuff.dll
